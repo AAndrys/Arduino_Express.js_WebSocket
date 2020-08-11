@@ -1,0 +1,17 @@
+{
+  "name": "led",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "johnny-five": "^2.0.0",
+    "websocket": "^1.0.31",
+    "ws": "^7.3.1"
+  }
+}
